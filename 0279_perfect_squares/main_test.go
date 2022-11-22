@@ -11,4 +11,6 @@ func test(t *testing.T, n, expected int) {
 func TestNumSquares(t *testing.T) {
 	test(t, 12, 3)
 	test(t, 13, 2)
+	test(t, 49, 1)
+	test(t, 368, 4)
 }
