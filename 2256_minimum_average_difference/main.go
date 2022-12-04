@@ -11,7 +11,7 @@ func abs(n int) int {
 
 func minimumAverageDifference(nums []int) int {
 	var lSum, rSum, diff int
-	bestDiff, bestIdx := int(1e5)+1, -1
+	minDiff, minIdx := int(1e5)+1, -1
 	for _, n := range nums {
 		rSum += n
 	}
@@ -22,10 +22,9 @@ func minimumAverageDifference(nums []int) int {
 		if rSize > 0 {
 			diff = abs(diff - (rSum / rSize))
 		}
-		if diff < bestDiff {
-			bestDiff = diff
-			bestIdx = i
+		if diff < minDiff {
+			minDiff, minIdx = diff, i
 		}
 	}
-	return bestIdx
+	return minIdx
 }
