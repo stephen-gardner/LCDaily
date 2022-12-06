@@ -25,6 +25,7 @@
 [0263_ugly_number](../2022/11/0263_ugly_number/)  
 [0279_perfect_squares](../2022/11/0279_perfect_squares/)  
 [0295_find_median_from_data_stream](../2022/11/0295_find_median_from_data_stream/)  
+[0328_odd_even_linked_list](../2022/12/0328_odd_even_linked_list/)  
 [0334_increasing_triplet_subsequence](../2022/10/0334_increasing_triplet_subsequence/)  
 [0336_palindrome_pairs](../2022/09/0336_palindrome_pairs/)  
 [0345_reverse_vowels_of_a_string](../2022/11/0345_reverse_vowels_of_a_string/)  
