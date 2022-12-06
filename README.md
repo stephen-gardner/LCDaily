@@ -1,5 +1,7 @@
 ## **Calendar**
 
+Click the links below to quickly navigate to the solution for the day. 🙂
+
 ### **2022 December**
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
