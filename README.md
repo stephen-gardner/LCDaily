@@ -7,7 +7,7 @@ Click the links below to quickly navigate to the solution for the day. 🙂
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |48|28|29|30|[1](./2022/12/1704_determine_if_string_halves_are_alike/)|[2](./2022/12/1657_determine_if_two_strings_are_close/)|[3](./2022/12/0451_sort_characters_by_frequency/)|[4](./2022/12/2256_minimum_average_difference/)|
-|49|[5](./2022/12/0876_middle_of_the_linked_list/)|[6](./2022/12/0328_odd_even_linked_list/)|7|8|9|10|11|
+|49|[5](./2022/12/0876_middle_of_the_linked_list/)|[6](./2022/12/0328_odd_even_linked_list/)|[7](./2022/12/0938_range_sum_of_bst/)|8|9|10|11|
 |50|12|13|14|15|16|17|18|
 |51|19|20|21|22|23|24|25|
 |52|26|27|28|29|30|31|1|
