@@ -52,6 +52,7 @@
 [0766_toeplitz_matrix](../2022/10/0766_toeplitz_matrix/)  
 [0814_binary_tree_pruning](../2022/09/0814_binary_tree_pruning/)  
 [0838_push_dominoes](../2022/09/0838_push_dominoes/)  
+[0872_leaf-similar_trees](../2022/12/0872_leaf-similar_trees/)  
 [0876_middle_of_the_linked_list](../2022/12/0876_middle_of_the_linked_list/)  
 [0899_orderly_queue](../2022/11/0899_orderly_queue/)  
 [0901_online_stock_span](../2022/11/0901_online_stock_span/)  
