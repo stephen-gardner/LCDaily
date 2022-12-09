@@ -66,6 +66,7 @@
 [0985_sum_of_even_numbers_after_queries](../2022/09/0985_sum_of_even_numbers_after_queries/)  
 [0987_vertical_order_traversal_of_a_binary_tree](../2022/09/0987_vertical_order_traversal_of_a_binary_tree/)  
 [0990_satisfiability_of_equality_equations](../2022/09/0990_satisfiability_of_equality_equations/)  
+[1026_maximum_difference_between_node_and_ancestor](../2022/12/1026_maximum_difference_between_node_and_ancestor/)  
 [1047_remove_all_adjacent_duplicates_in_string](../2022/11/1047_remove_all_adjacent_duplicates_in_string/)  
 [1207_uniqu_number_of_occurrences](../2022/11/1207_uniqu_number_of_occurrences/)  
 [1235_maximum_profit_in_job_scheduling](../2022/11/1235_maximum_profit_in_job_scheduling/)  
