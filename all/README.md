@@ -74,6 +74,7 @@
 [1293_shortest_path_in_a_grid_with_obstacles_elimination](../2022/10/1293_shortest_path_in_a_grid_with_obstacles_elimination/)  
 [1323_maximum_69_number](../2022/11/1323_maximum_69_number/)  
 [1328_break_a_palindrome](../2022/10/1328_break_a_palindrome/)  
+[1339_maximum_product_of_splitted_binary_tree](../2022/12/1339_maximum_product_of_splitted_binary_tree/)  
 [1383_maximum_performance_of_a_team](../2022/09/1383_maximum_performance_of_a_team/)  
 [1457_pseudo-palindromic_paths_in_a_binary_tree](../2022/09/1457_pseudo-palindromic_paths_in_a_binary_tree/)  
 [1544_make_the_string_great](../2022/11/1544_make_the_string_great/)  
