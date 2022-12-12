@@ -8,6 +8,7 @@
 [0038_count_and_say](../2022/10/0038_count_and_say/)  
 [0042_trapping_rain_water](../2022/09/0042_trapping_rain_water/)  
 [0049_group_anagrams](../2022/10/0049_group_anagrams/)  
+[0070_climbing_stairs](../2022/12/0070_climbing_stairs/)  
 [0076_minimum_window_substring](../2022/10/0076_minimum_window_substring/)  
 [0079_word_search](../2022/11/0079_word_search/)  
 [0091_decode_ways](../2022/10/0091_decode_ways/)  
