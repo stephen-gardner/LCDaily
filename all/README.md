@@ -52,6 +52,7 @@
 [0658_find_k_closest_elements](../2022/09/0658_find_k_closest_elements/)  
 [0692_top_k_frequent_words](../2022/10/0692_top_k_frequent_words/)  
 [0718_maximum_length_of_repeated_subarray](../2022/09/0718_maximum_length_of_repeated_subarray/)  
+[0739_daily_temperatures](../2022/12/0739_daily_temperatures/)  
 [0766_toeplitz_matrix](../2022/10/0766_toeplitz_matrix/)  
 [0814_binary_tree_pruning](../2022/09/0814_binary_tree_pruning/)  
 [0838_push_dominoes](../2022/09/0838_push_dominoes/)  
