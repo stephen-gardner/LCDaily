@@ -8,7 +8,7 @@ Click the links below to quickly navigate to the solution for the day. 🙂
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |48|28|29|30|[1](./2022/12/1704_determine_if_string_halves_are_alike/)|[2](./2022/12/1657_determine_if_two_strings_are_close/)|[3](./2022/12/0451_sort_characters_by_frequency/)|[4](./2022/12/2256_minimum_average_difference/)|
 |49|[5](./2022/12/0876_middle_of_the_linked_list/)|[6](./2022/12/0328_odd_even_linked_list/)|[7](./2022/12/0938_range_sum_of_bst/)|[8](./2022/12/0872_leaf-similar_trees/)|[9](./2022/12/1026_maximum_difference_between_node_and_ancestor/)|[10](./2022/12/1339_maximum_product_of_splitted_binary_tree/)|[11](./2022/12/0124_binary_tree_maximum_path_sum/)|
-|50|[12](./2022/12/0070_climbing_stairs/)|[13](./2022/12/0931_minimum_falling_path_sum/)|[14](./2022/12/0198_house_robber/)|[15](./2022/12/1143_longest_common_subsequence/)|16|17|[18](./2022/12/0739_daily_temperatures/)|
+|50|[12](./2022/12/0070_climbing_stairs/)|[13](./2022/12/0931_minimum_falling_path_sum/)|[14](./2022/12/0198_house_robber/)|[15](./2022/12/1143_longest_common_subsequence/)|[16](./2022/12/0232_implement_queue_using_stacks/)|17|[18](./2022/12/0739_daily_temperatures/)|
 |51|19|20|21|22|23|24|25|
 |52|26|27|28|29|30|31|1|
 

@@ -24,6 +24,7 @@
 [0222_count_complete_tree_nodes](../2022/11/0222_count_complete_tree_nodes/)  
 [0223_rectangle_area](../2022/11/0223_rectangle_area/)  
 [0224_basic_calculator](../2022/11/0224_basic_calculator/)  
+[0232_implement_queue_using_stacks](../2022/12/0232_implement_queue_using_stacks/)  
 [0237_delete_node_in_a_linked_list](../2022/10/0237_delete_node_in_a_linked_list/)  
 [0263_ugly_number](../2022/11/0263_ugly_number/)  
 [0279_perfect_squares](../2022/11/0279_perfect_squares/)  
