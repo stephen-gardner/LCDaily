@@ -94,6 +94,7 @@
 [1770_maximum_score_from_performing_multiplication_operations](../2022/09/1770_maximum_score_from_performing_multiplication_operations/)  
 [1832_check_if_the_sentence_is_pangram](../2022/10/1832_check_if_the_sentence_is_pangram/)  
 [1926_nearest_exit_from_entrance_in_maze](../2022/11/1926_nearest_exit_from_entrance_in_maze/)  
+[1971_find_if_path_exists_in_graph](../2022/12/1971_find_if_path_exists_in_graph/)  
 [1996_the_number_of_weak_characters_in_the_game](../2022/09/1996_the_number_of_weak_characters_in_the_game/)  
 [2007_find_original_array_from_doubled_array](../2022/09/2007_find_original_array_from_doubled_array/)  
 [2095_delete_the_middle_node_of_a_linked_list](../2022/10/2095_delete_the_middle_node_of_a_linked_list/)  
