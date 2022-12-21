@@ -61,6 +61,7 @@
 [0841_keys_and_rooms](../2022/12/0841_keys_and_rooms/)  
 [0872_leaf-similar_trees](../2022/12/0872_leaf-similar_trees/)  
 [0876_middle_of_the_linked_list](../2022/12/0876_middle_of_the_linked_list/)  
+[0886_possible_bipartition](../2022/12/0886_possible_bipartition/)  
 [0899_orderly_queue](../2022/11/0899_orderly_queue/)  
 [0901_online_stock_span](../2022/11/0901_online_stock_span/)  
 [0907_sub_of_subarray_minimums](../2022/11/0907_sub_of_subarray_minimums/)  
