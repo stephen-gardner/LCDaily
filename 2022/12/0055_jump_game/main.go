@@ -1,5 +1,5 @@
 // Problem: https://leetcode.com/problems/jump-game/
-// Results: https://leetcode.com/problems/jump-game/submissions/865543775/
+// Results: https://leetcode.com/problems/jump-game/submissions/865547772/
 package main
 
 func canJump(nums []int) bool {
@@ -8,7 +8,7 @@ func canJump(nums []int) bool {
 	reach[0] = true
 	for i := 0; i < len(nums); i++ {
 		if !reach[i] {
-			continue
+			break
 		}
 		limit := i + nums[i]
 		if limit >= dst {
