@@ -108,4 +108,5 @@
 [2136_earliest_possible_day_of_full_bloom](../2022/10/2136_earliest_possible_day_of_full_bloom/)  
 [2225_find_players_with_zero_or_one_losses](../2022/11/2225_find_players_with_zero_or_one_losses/)  
 [2256_minimum_average_difference](../2022/12/2256_minimum_average_difference/)  
+[2279_maximum_bags_with_full_capacity_of_rocks](../2022/12/2279_maximum_bags_with_full_capacity_of_rocks/)  
 [2389_longest_sbsequence_with_limited_sum](../2022/12/2389_longest_sbsequence_with_limited_sum/)  
