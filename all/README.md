@@ -99,6 +99,7 @@
 [1706_where_will_the_ball_fall](../2022/11/1706_where_will_the_ball_fall/)  
 [1770_maximum_score_from_performing_multiplication_operations](../2022/09/1770_maximum_score_from_performing_multiplication_operations/)  
 [1832_check_if_the_sentence_is_pangram](../2022/10/1832_check_if_the_sentence_is_pangram/)  
+[1834_single-threaded_cpu](../2022/12/1834_single-threaded_cpu/)  
 [1926_nearest_exit_from_entrance_in_maze](../2022/11/1926_nearest_exit_from_entrance_in_maze/)  
 [1962_remove_stones_to_minimize_the_total](../2022/12/1962_remove_stones_to_minimize_the_total/)  
 [1971_find_if_path_exists_in_graph](../2022/12/1971_find_if_path_exists_in_graph/)  
