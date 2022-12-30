@@ -10,7 +10,7 @@ Click the links below to quickly navigate to the solution for the day. 🙂
 |49|[5](./2022/12/0876_middle_of_the_linked_list/)|[6](./2022/12/0328_odd_even_linked_list/)|[7](./2022/12/0938_range_sum_of_bst/)|[8](./2022/12/0872_leaf-similar_trees/)|[9](./2022/12/1026_maximum_difference_between_node_and_ancestor/)|[10](./2022/12/1339_maximum_product_of_splitted_binary_tree/)|[11](./2022/12/0124_binary_tree_maximum_path_sum/)|
 |50|[12](./2022/12/0070_climbing_stairs/)|[13](./2022/12/0931_minimum_falling_path_sum/)|[14](./2022/12/0198_house_robber/)|[15](./2022/12/1143_longest_common_subsequence/)|[16](./2022/12/0232_implement_queue_using_stacks/)|[17](./2022/12/0150_evaluate_reverse_polish_notation/)|[18](./2022/12/0739_daily_temperatures/)|
 |51|[19](./2022/12/1971_find_if_path_exists_in_graph/)|[20](./2022/12/0841_keys_and_rooms/)|[21](./2022/12/0886_possible_bipartition/)|-|[23](./2022/12/0309_best_time_to_buy_and_sell_with_cooldown/)|[24](./2022/12/0790_domino_and_tromino_tiling/)|[25](./2022/12/2389_longest_sbsequence_with_limited_sum/)|
-|52|[26](./2022/12/0055_jump_game/)|[27](./2022/12/2279_maximum_bags_with_full_capacity_of_rocks/)|[28](./2022/12/1962_remove_stones_to_minimize_the_total/)|[29](./2022/12/1834_single-threaded_cpu/)|30|31|1|
+|52|[26](./2022/12/0055_jump_game/)|[27](./2022/12/2279_maximum_bags_with_full_capacity_of_rocks/)|[28](./2022/12/1962_remove_stones_to_minimize_the_total/)|[29](./2022/12/1834_single-threaded_cpu/)|[30](./2022/12/0797_all_paths_from_source_to_target/)|31|1|
 
 ### **2022 November**
 

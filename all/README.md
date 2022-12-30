@@ -59,6 +59,7 @@
 [0739_daily_temperatures](../2022/12/0739_daily_temperatures/)  
 [0766_toeplitz_matrix](../2022/10/0766_toeplitz_matrix/)  
 [0790_domino_and_tromino_tiling](../2022/12/0790_domino_and_tromino_tiling/)  
+[0797_all_paths_from_source_to_target](../2022/12/0797_all_paths_from_source_to_target/)  
 [0814_binary_tree_pruning](../2022/09/0814_binary_tree_pruning/)  
 [0838_push_dominoes](../2022/09/0838_push_dominoes/)  
 [0841_keys_and_rooms](../2022/12/0841_keys_and_rooms/)  
