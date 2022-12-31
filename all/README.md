@@ -75,6 +75,7 @@
 [0948_bag_of_tokens](../2022/09/0948_bag_of_tokens/)  
 [0967_numbers_with_same_consecutive_differences](../2022/09/0967_numbers_with_same_consecutive_differences/)  
 [0976_largest_perimeter_triangle](../2022/10/0976_largest_perimeter_triangle/)  
+[0980_unique_paths_iii](../2022/12/0980_unique_paths_iii/)  
 [0981_time_based_key-value_store](../2022/10/0981_time_based_key-value_store/)  
 [0985_sum_of_even_numbers_after_queries](../2022/09/0985_sum_of_even_numbers_after_queries/)  
 [0987_vertical_order_traversal_of_a_binary_tree](../2022/09/0987_vertical_order_traversal_of_a_binary_tree/)  
