@@ -2,6 +2,17 @@
 
 Click the links below to quickly navigate to the solution for the day. 🙂
 
+### **2023 January**
+
+|Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|52|26|27|28|29|30|31|[1](./2023/01/0290_word_pattern/)|
+|1|2|3|4|5|6|7|8|
+|2|9|10|11|12|13|14|15|
+|3|16|17|18|19|20|21|22|
+|4|23|24|25|26|27|28|29|
+|5|30|31|1|2|3|4|5|
+
 ### **2022 December**
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|

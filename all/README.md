@@ -30,6 +30,7 @@
 [0237_delete_node_in_a_linked_list](../2022/10/0237_delete_node_in_a_linked_list/)  
 [0263_ugly_number](../2022/11/0263_ugly_number/)  
 [0279_perfect_squares](../2022/11/0279_perfect_squares/)  
+[0290_word_pattern](../2023/01/0290_word_pattern/)  
 [0295_find_median_from_data_stream](../2022/11/0295_find_median_from_data_stream/)  
 [0309_best_time_to_buy_and_sell_with_cooldown](../2022/12/0309_best_time_to_buy_and_sell_with_cooldown/)  
 [0328_odd_even_linked_list](../2022/12/0328_odd_even_linked_list/)  
