@@ -44,6 +44,7 @@
 [0433_minimum_genetic_mutation](../2022/11/0433_minimum_genetic_mutation/)  
 [0446_arithmetic_slices_ii-subsequence](../2022/11/0446_arithmetic_slices_ii-subsequence/)  
 [0451_sort_characters_by_frequency](../2022/12/0451_sort_characters_by_frequency/)  
+[0520_detect_capital](../2023/01/0520_detect_capital/)  
 [0523_continuous_subarray_sum](../2022/10/0523_continuous_subarray_sum/)  
 [0557_reverse_words_in_a_string_iii](../2022/09/0557_reverse_words_in_a_string_iii/)  
 [0587_erect_the_fence](../2022/11/0587_erect_the_fence/)  
