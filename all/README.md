@@ -73,6 +73,7 @@
 [0907_sub_of_subarray_minimums](../2022/11/0907_sub_of_subarray_minimums/)  
 [0931_minimum_falling_path_sum](../2022/12/0931_minimum_falling_path_sum/)  
 [0938_range_sum_of_bst](../2022/12/0938_range_sum_of_bst)  
+[0944_delete_columns_to_make_sorted](../2023/01/0944_delete_columns_to_make_sorted/)  
 [0947_most_stones_removed_with_same_row_or_column](../2022/11/0947_most_stones_removed_with_same_row_or_column/)  
 [0948_bag_of_tokens](../2022/09/0948_bag_of_tokens/)  
 [0967_numbers_with_same_consecutive_differences](../2022/09/0967_numbers_with_same_consecutive_differences/)  
