@@ -7,7 +7,7 @@ Click the links below to quickly navigate to the solution for the day. 🙂
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |52|26|27|28|29|30|31|[1](./2023/01/0290_word_pattern/)|
-|1|[2](./2023/01/0520_detect_capital/)|[3](./2023/01/0944_delete_columns_to_make_sorted/)|4|5|6|7|8|
+|1|[2](./2023/01/0520_detect_capital/)|[3](./2023/01/0944_delete_columns_to_make_sorted/)|[4](./2023/01/2244_minimum_rounds_to_complete_all_tasks/)|5|6|7|8|
 |2|9|10|11|12|13|14|15|
 |3|16|17|18|19|20|21|22|
 |4|23|24|25|26|27|28|29|
