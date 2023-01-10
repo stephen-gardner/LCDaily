@@ -14,6 +14,7 @@
 [0079_word_search](../2022/11/0079_word_search/)  
 [0091_decode_ways](../2022/10/0091_decode_ways/)  
 [0094_binary_tree_irorder_traversal](../2022/09/0094_binary_tree_irorder_traversal/)  
+[0100_same_tree](../2023/01/0100_same_tree/)  
 [0112_path_sum](../2022/10/0112_path_sum/)  
 [0113_path_sum_ii](../2022/09/0113_path_sum_ii/)  
 [0124_binary_tree_maximum_path_sum](../2022/12/0124_binary_tree_maximum_path_sum/)  
