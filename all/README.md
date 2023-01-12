@@ -100,6 +100,7 @@
 [1339_maximum_product_of_splitted_binary_tree](../2022/12/1339_maximum_product_of_splitted_binary_tree/)  
 [1383_maximum_performance_of_a_team](../2022/09/1383_maximum_performance_of_a_team/)  
 [1457_pseudo-palindromic_paths_in_a_binary_tree](../2022/09/1457_pseudo-palindromic_paths_in_a_binary_tree/)  
+[1519_number_of_nodes_in_the_sub-tree_with_the_same_label](../2023/01/1519_number_of_nodes_in_the_sub-tree_with_the_same_label/)  
 [1544_make_the_string_great](../2022/11/1544_make_the_string_great/)  
 [1578_minimum_time_to_make_rope_colorful](../2022/10/1578_minimum_time_to_make_rope_colorful/)  
 [1657_determine_if_two_strings_are_close](../2022/12/1657_determine_if_two_strings_are_close/)  
