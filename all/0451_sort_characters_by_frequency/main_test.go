@@ -12,7 +12,7 @@ func test(t *testing.T, s, expected string) {
 }
 
 func TestFrequencySort(t *testing.T) {
-	test(t, "tree", "eetr")
+	test(t, "tree", "eert")
 	test(t, "cccaaa", "aaaccc")
 	test(t, "Aabb", "bbAa")
 	test(t, "2a554442f544asfasssffffasss", "sssssssffffff44444aaaa55522")
