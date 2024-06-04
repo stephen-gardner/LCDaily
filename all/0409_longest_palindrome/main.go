@@ -2,7 +2,6 @@
 // Results: https://leetcode.com/problems/longest-palindrome/submissions/1277650623
 package main
 
-
 // Time: O(n)
 // Space: O(1)
 func longestPalindrome(s string) int {
