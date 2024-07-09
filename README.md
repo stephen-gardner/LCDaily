@@ -11,7 +11,7 @@ To easily find a solution for a given day, simply click the relevant links on th
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |27|1|2|3|[4](./all/2181_merge_nodes_in_between_zeros/)|5|[6](./all/2582_pass_the_pillow/)|7|
-|28|8|9|10|11|12|13|14|
+|28|[8](./all/1823_find_the_winner_of_the_circular_game/)|9|10|11|12|13|14|
 |29|15|16|17|18|19|20|21|
 |30|22|23|24|25|26|27|28|
 |31|29|30|31|1|2|3|4|
