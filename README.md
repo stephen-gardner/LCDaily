@@ -6,7 +6,7 @@ To easily find a solution for a given day, simply click the relevant links on th
 
 ## **Calendar**
 
-### **2024 June**
+### **2024 July**
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
