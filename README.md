@@ -12,6 +12,6 @@ To easily find a solution for a given day, simply click the relevant links on th
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |31|29|30|31|1|2|3|4|
 |32|5|6|7|8|9|10|11|
-|33|12|13|14|[15](./all/0860_lemonade_change/)|16|17|18|
+|33|12|13|14|[15](./all/0860_lemonade_change/)|[16](./all/0624_maximum_distance_in_arrays/)|17|18|
 |34|19|20|21|22|23|24|25|
 |35|26|27|28|29|30|31|1|
