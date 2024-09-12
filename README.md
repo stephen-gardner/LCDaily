@@ -6,12 +6,14 @@ To easily find a solution for a given day, simply click the relevant links on th
 
 ## **Calendar**
 
-### **2024 August**
+
+### **2024 September**
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|31|29|30|31|1|2|3|4|
-|32|5|6|7|8|9|10|11|
-|33|12|13|14|[15](./all/0860_lemonade_change/)|[16](./all/0624_maximum_distance_in_arrays/)|17|18|
-|34|[19](./all/0650_2_keys_keyboard/)|20|21|22|[23](./all/0476_number_complement/)|24|25|
 |35|26|27|28|29|30|31|1|
+|36|2|3|4|5|6|7|8|
+|37|9|10|[11](./all/2220_minimum_bit_flips_to_convert_number/)|12|13|14|15|
+|38|16|17|18|19|20|21|22|
+|39|23|24|25|26|27|28|29|
+|40|30|1|2|3|4|5|6|
