@@ -13,7 +13,7 @@ To easily find a solution for a given day, simply click the relevant links on th
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |35|26|27|28|29|30|31|1|
 |36|2|3|4|5|6|7|8|
-|37|9|10|[11](./all/2220_minimum_bit_flips_to_convert_number/)|[12](./all/1684_count_the_number_of_consistent_strings/)|[13](./all/1310_xor_queries_of_a_subarray/)|14|15|
+|37|9|10|[11](./all/2220_minimum_bit_flips_to_convert_number/)|[12](./all/1684_count_the_number_of_consistent_strings/)|[13](./all/1310_xor_queries_of_a_subarray/)|[14](./all/2419_longest_subarray_with_maximum_bitwise_and/)|15|
 |38|16|17|18|19|20|21|22|
 |39|23|24|25|26|27|28|29|
 |40|30|1|2|3|4|5|6|
